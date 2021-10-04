@@ -1,6 +1,6 @@
 # Musician -- a online teaching platform where users can learn musics
 
-## Here is the live site link: 
+## Here is the live site link: https://musician-782.netlify.app/
 
 ### Project features:
 
