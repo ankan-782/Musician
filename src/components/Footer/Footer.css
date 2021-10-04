@@ -1,0 +1,11 @@
+.footer{
+    padding: 40px 0;
+    background-color: rgb(12, 73, 68);
+    font-family: 'Josefin Sans', sans-serif;
+}
+.line-break {
+    width: 80%;
+}
+.copyright {
+    font-family: 'Poppins', sans-serif;
+}

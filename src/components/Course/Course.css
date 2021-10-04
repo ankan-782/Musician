@@ -1,0 +1,29 @@
+.all-courses {
+    border-radius: 10px;
+    background-color: rgba(145, 197, 194, 0.9);
+    transition: 0.3s;
+}
+.all-courses:hover {
+    box-shadow: 1px 1px 20px gray;
+}
+.teacher-img-course{
+    width: 80px;
+    height: 80px;
+    border: 3px solid black;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.teacher-bg {
+    background-color: rgb(92, 134, 134);
+    color: white;
+    border-radius: 10px;
+}
+.fee {
+    color: rgb(23, 56, 54);
+}
+.duration {
+    padding: 1px 15px;
+    background-color: rgb(155, 74, 74);
+    color: white;
+    border-radius: 50px;
+}

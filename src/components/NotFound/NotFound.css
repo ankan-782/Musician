@@ -1,0 +1,11 @@
+.not-found{
+    margin-top: 56px;
+    min-height: calc(100vh - 56px);
+}
+.error-msg {
+    font-size: 4rem;
+}
+.error-gif {
+    width: 100px;
+    height: 100px;
+}
